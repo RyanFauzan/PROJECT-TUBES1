@@ -11,15 +11,9 @@ theme is impossible
 
 
 
-+## TUGAS LAYANAN WEB [GITHUB](https://github.com)
-
-
-
-+## Fitur social digithub
-
-
-
-+Beberapa fitur Social di Github:
+TUGAS LAYANAN WEB [GITHUB](https://github.com)
+Fitur social digithub
+Beberapa fitur Social di Github:
 
 
 +    Github user profile.
