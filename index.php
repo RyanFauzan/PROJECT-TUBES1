@@ -34,7 +34,6 @@ Dengan fitur kolaboratif GitHub.com, desktop dan aplikasi mobile, dan GitHub Ent
 
 ![117006161](https://github.com/rizkiabdillahrusyawan)
 
-
 ![Project-Tubes1-RIZKI 117006156--RUSLAN 117006161--RYAN 117006189]
 <?php
  $feed = file_get_contents("http://www.kompas.com/getrss/bisniskeuangan");
