@@ -22,8 +22,7 @@ GitHub juga merupakan tempat terbaik untuk berbagi kode dengan teman-teman, reka
 Dengan fitur kolaboratif GitHub.com, desktop dan aplikasi mobile, dan GitHub Enterprise, belum pernah lebih mudah bagi individu dan tim untuk menulis kode yang lebih baik, lebih cepat.
 
 
-http://www.candra.web 
-http://www.candra.web.id/2014/01/25/pengenalan-github-untuk-pemula/
+// http://i.goal.com/id-ID/
 
 
 Beberapa fitur Social di Github:
@@ -42,3 +41,17 @@ Jika anda ingin mempelajari cara kerja berkolaborasi di github dengan git revisi
 
 
 ![Project-Tubes1-RIZKI 117006156--RUSLAN 117006161--RYAN 117006189]
+<?php
+ $feed = file_get_contents("http://www.kompas.com/getrss/bisniskeuangan");
+ 
+ // http://cariprogram.blogspot.com
+ // http://i.goal.com/id-ID/
+ 
+ //$feed = file_get_contents($_GET['url']);
+ $xml = new SimpleXmlElement($feed, LIBXML_NOCDATA);
+
+?>
+<?php
+                echo "Bukan RSS, kemungkinan besar ATOM, gunakan cara membaca atom, lihat tutorial di http://cariprogram.blogspot.com";
+        }
+?>
