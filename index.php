@@ -29,7 +29,6 @@ Dengan fitur kolaboratif GitHub.com, desktop dan aplikasi mobile, dan GitHub Ent
 
 
 
-
 ![117006161](https://github.com/RuslanDoel) 
 
 
